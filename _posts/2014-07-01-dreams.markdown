@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      "我的第一篇博客"
+date:       2015-10-26 00:00:00
+author:     "Eric Shen"
+header-img: "img/post-bg-02.jpg"
+---
+
+<p>2015年的10月，我搭建了自己的Blog，开始积累自己的成长和分享实用技术。</p>
