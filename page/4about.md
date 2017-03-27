@@ -17,7 +17,6 @@ type: page
 
 * GitHub：[ericjee](https://github.com/ericjee)
 * email：shenkai600@gmail.com
-* [Weibo](http://weibo.com/3115521wh)
 * [Twitter](https://twitter.com/ericjeee)
 
 ## 关于本站
